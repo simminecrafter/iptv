@@ -2,25 +2,25 @@
 #EXTINF:-1 tvg-id="CBS" tvg-logo="https://play-lh.googleusercontent.com/lQnVE4bDah8rnPF3uVVIO5HAyvA5OyyG_Gu6EkyO-pKXEw2H5_c5Qr8dIy0H0ZibkT0" group-title="Entertainment",CBS (KREM 2.1)
 https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/865666/5743360/media.m3u8?request_token=Z1-ZrI8l37vCBmH6YKlQZNFcvAXYiLJN8c0K9gQTvqeAS2QJAdKCNfJi781AV_GZ0FiNd9AuyH162KN25KKJ1iwvz5KrioIJ6D1yPHrvpZ68JmiHTY6U93wIgD_NiMxFXxR_tw_MCi_hka74r9ng6aLxngs2p8TTSlCW71SMmjHsk4wN7kcHLDtoRtcivA&CMCD=mtp%3D111600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22ac2d9503-527a-4258-a660-a8841776bd7c%22
 
-#EXTINF:-1 tvg-id="ABC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIIr3VJcL93eUVQ3brVqbQ7xyT-FRwN4ZBng&s" group-title="Entertainment",ABC (KXLY 4.1)
+#EXTINF:-1 tvg-id="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Entertainment",ABC (KXLY 4.1)
 http://saypopular.com:25461/live/18736836/73683618/272361.ts
 
 #EXTINF:-1 tvg-id="ABCSpark" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIIr3VJcL93eUVQ3brVqbQ7xyT-FRwN4ZBng&s" group-title="Entertainment",ABC Spark (KXLY 4.2)
 http://ae325328.ucomist.net/iptv/Z3SWF9EL3YPX5N/6466/index.m3u8
 
-#EXTINF:-1 tvg-id="NBClxHome" tvg-logo="https://i.imgur.com/FcT3beY.png" group-title="Entertainment",NBCLX Home
+#EXTINF:-1 tvg-id="NBClxHome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/NBC_LX_Home_2023.svg" group-title="Entertainment",NBCLX Home
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991651
 
-#EXTINF:-1 tvg-id="IONTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIGUVznCs_9_iTkaCv4Gpz72_ksZ_neCpe1g&s" group-title="Entertainment",ION
+#EXTINF:-1 tvg-id="IONTV" tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_640,h_400/v1589301664/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/Ion-Default-Black_2x_ty12yi.png" group-title="Entertainment",ION
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="BounceTV" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/10/515d1f8b-bounce_logo_720x486.jpg" group-title="Entertainment",Bounce
 http://72.46.118.193/Bounce/index.m3u8
 
-#EXTINF:-1 tvg-id="COZI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/MeTV_Toons.png" group-title="Entertainment",COZI
+#EXTINF:-1 tvg-id="COZI" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k6XWjQG1h6YjDqZn4x3pUA6JRwMUFZUQT5yy_8Q8ex4P0=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",COZI
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="gettv" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/10/515d1f8b-bounce_logo_720x486.jpg" group-title="Entertainment",get
+#EXTINF:-1 tvg-id="gettv" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mgAHua5lIS_fsmkM8Hn1-DlNEB_K7WXqstuvAWcYwyoWc=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",get
 http://fl2.moveonjoy.com/GET_TV/index.m3u8
 
 #EXTINF:-1  tvg-id="Charge.us" group-title="Entertainment" tvg-logo="https://i.imgur.com/fuw0hHE.png",Charge!
@@ -32,19 +32,16 @@ http://fl2.moveonjoy.com/REELZ/index.m3u8
 #EXTINF:-1 tvg-id="COMET" tvg-logo="https://d17su2xjlj6zyp.cloudfront.net/uploads/2021/04/comet-logo.png" group-title="Entertainment",COMET
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
-#EXTINF:-1 tvg-id="AntennaTV" tvg-logo="https://i.imgur.com/FcT3beY.png" group-title="Entertainment",AntennaTV
+#EXTINF:-1 tvg-id="AntennaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Antenna_TV_logo.svg/175px-Antenna_TV_logo.svg.png" group-title="Entertainment",AntennaTV
 http://fl3.moveonjoy.com/Antenna/index.m3u8
 
 #EXTINF:-1 tvg-id="MeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/2560px-MeTV_Logo.svg.png" group-title="Entertainment",MeTV
 http://fl2.moveonjoy.com/ME_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="UNI" tvg-logo="https://images.squarespace-cdn.com/content/v1/5b101d24372b965c50a306dd/1585138946014-7QSFLZVBSYCHK0DZY673/ID_02_MOVING_LIGHT_20Sec_25fps_00499.png" group-title="Entertainment",Universal TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654933e253fc970008390114/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4af3fb3-c7bd-419b-a2e3-da5c4363586a
-
-#EXTINF:-1 tvg-id="UniWest" tvg-logo="https://i.imgur.com/FcT3beY.png" group-title="Entertainment",Universal Westerns
+#EXTINF:-1 tvg-id="UniWest" tvg-logo="https://images.squarespace-cdn.com/content/v1/5b101d24372b965c50a306dd/1585138946014-7QSFLZVBSYCHK0DZY673/ID_02_MOVING_LIGHT_20Sec_25fps_00499.png" group-title="Entertainment",Universal Westerns
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951255/hls/master.m3u8?ads.xumo_channelId=99951255
 
-#EXTINF:-1 tvg-id="INSP" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/10/515d1f8b-bounce_logo_720x486.jpg" group-title="Entertainment",INSP
+#EXTINF:-1 tvg-id="INSP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/INSP_logo_2022.png" group-title="Entertainment",INSP
 http://fl2.moveonjoy.com/INSP/index.m3u8
 
 #EXTINF:-1 tvg-id="Circle TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png" group-title="Entertainment",Circle TV
@@ -62,19 +59,19 @@ https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/7345
 #EXTINF:-1 tvg-id="LFTM" tvg-logo="https://yt3.googleusercontent.com/WVaLjZ7_bsa4bA8qFTQZmAbrz2YWv4ndKQm5T0Quw4iTEQPR8UMqzBCIkZGj9J80CLCqB_MjRQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Lifetime
 https://fl2.moveonjoy.com/LIFETIME/index.m3u8
 
-#EXTINF:-1 tvg-id="LMN" tvg-logo="https://yt3.googleusercontent.com/WVaLjZ7_bsa4bA8qFTQZmAbrz2YWv4ndKQm5T0Quw4iTEQPR8UMqzBCIkZGj9J80CLCqB_MjRQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",LMN
+#EXTINF:-1 tvg-id="LMN" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kB0RBAP_rj3EXjTPiW-vVkZRcaFtA02755rb5-C-Uyog=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",LMN
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="WEA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1024px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Entertainment",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 
-#EXTINF:-1 tvg-name="CNN" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105163149281681_74.png" group-title="Entertainment",CNN
+#EXTINF:-1 tvg-name="CNN" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/n5DRh94eycw6xGcOKTn6LKQwztTwaw24fXPniFTXA3VPgwJaiOFdBwJNtXRHYUf7OdEAk9upwH0=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Entertainment",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="AMCPLUS" tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg" group-title="Entertainment",AMC+
+#EXTINF:-1 tvg-id="AMCPLUS" tvg-logo="https://yt3.googleusercontent.com/PT7oRegnaQeeK5eAUHSWo3dfBRarC98iUj9E_3VpHovDFAQwr2Mg7IwxuMK73iJlV79CqdGIfQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",AMC+
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Entertainment",Paramount Network
@@ -119,7 +116,7 @@ https://fl2.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg" group-title="Entertainment",Discovery
 http://bisdaktv.store/live/discoveryenglish.m3u8
 
-#EXTINF:-1 tvg-id="DiscTurbo" tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg" group-title="Entertainment",Discovery Turbo
+#EXTINF:-1 tvg-id="DiscTurbo" tvg-logo="https://eu1-prod-images.disco-api.com/2023/08/30/c62607b1-1c13-3d5d-9c41-d9964f2482fd.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="Entertainment",Discovery Turbo
 http://bisdaktv.store/live/Discovery_Turbo.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryLife" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/640px-Discovery_Life_logo_2016.svg.png" group-title="Entertainment",Discovery Life
@@ -128,13 +125,13 @@ http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 #EXTINF:-1 tvg-id="DSCF" tvg-logo="https://banner2.cleanpng.com/20180802/teo/kisspng-logo-product-design-brand-discovery-channel-green-watch-tv-everywhere-5b638a42cc6647.8986147115332501148372.jpg",Discovery Family
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryMax" tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg" group-title="Entertainment",DMAX
+#EXTINF:-1 tvg-id="DiscoveryMax" tvg-logo="https://eu1-prod-images.disco-api.com/2023/08/08/b2118319-0565-34ee-bccf-6228b1ec0426.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="Entertainment",DMAX
 http://bisdaktv.store/live/DMAX.m3u8
 
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg" group-title="Entertainment",HGTV
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://yt3.googleusercontent.com/AqdPDvUKuBjk67uN-7toXwyR2GfKdjIKFNi6j9256MGOthUEzSClqzXlIy5WkFEuzuT3M3tv=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",HGTV
 http://bisdaktv.store/live/HGTV.m3u8
 
-#EXTINF:-1 tvg-id="IDNet" tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg" group-title="Entertainment", Investigation Discovery
+#EXTINF:-1 tvg-id="IDNet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS4gtpkOTuKuORMYqfWow4JcFc7Eyk_k3XcUCNkX8WrzdaZBCzDFRy5Mc95glVjEMqSdc&usqp=CAU" group-title="Entertainment", Investigation Discovery
 http://bisdaktv.store/live/Investigation_Discovery.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg" group-title="Entertainment",TLC
@@ -185,7 +182,7 @@ https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/1024px-Nicktoons_2023_Outlined_Logo.png" group-title="Entertainment",NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
 
-#EXTINF:-1 tvg-id="NickMusic" tvg-logo="https://i.ytimg.com/vi/mVdnvsybcWQ/sddefault.jpg" group-title="Entertainment",Nick Music
+#EXTINF:-1 tvg-id="NickMusic" tvg-logo="https://yt3.googleusercontent.com/9ozhme8xCzWobmPWqqvzauSiEAExWx_eh9uYjcnQIJqoVEwvm4W0bzdJDOrT6u9FpaO-4JME5A=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Nick Music
 http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id= "BratTV" tvg-logo="https://static.wikia.nocookie.net/bratchannel/images/f/f7/Brattv.png/revision/latest/scale-to-width-down/320?cb=20240411162826" group-title="Entertainment",BratTV
@@ -200,11 +197,14 @@ https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id= "DisneyXD" tvg-logo="https://yt3.googleusercontent.com/nVEgcnbTGngVxzKnJOr-T1QKJJPQW_1ZdCkNyrxHohaF2VzYpfZggE9HuLVIHT4wMMSZjJumZQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",DisneyXD
 https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-id="PBSKids" tvg-logo="https://i.ytimg.com/vi/mVdnvsybcWQ/sddefault.jpg" group-title="Entertainment",PBS Kids
+#EXTINF:-1 tvg-id="PBSKids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png" group-title="Entertainment",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-id= "Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Boomerang_2014_logo.svg" group-title="Entertainment",Boomerang
 http://67.220.74.90:25461/18736836/73683618/5479
+
+#EXTINF:-1 tvg-id= "Carnito" tvg-logo="https://des98fz5jsos4.cloudfront.net/cartoonito/static/base/gallery/images/placeholder_transparent_new.webp" group-title="kids",Cartoonito
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 
 #EXTINF:-1 tvg-id= "CNCA" tvg-logo="https://i.pinimg.com/originals/ec/dd/a5/ecdda58e7cffb03e3b851b61e70e40ed.png" group-title="Entertainment",The Cartoon Network Channel
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
@@ -217,9 +217,6 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ToonamiW" tvg-logo="https://i.imgur.com/sya40o5.png" group-title="Entertainment",Toonami West
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RetroCrush" tvg-logo="https://play-lh.googleusercontent.com/0sGC_MLday5uTDFA7x0gzd2UUPTqex4P7XP1YCE2GGJsl8opuFNqdbywH-cqXo0iPWA" group-title="Entertainment",RetroCrush
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a/variant.m3u8?url=5af95fde394956f716cf17da316fba0e-bfa0bb261f0b9771b37ec7f2990f34e10457d6da2f4e95a46dd4ff45bf4c4b0f82e8a9f56ff4287fb0eeeb944f50e38e48b58998d9c9317695e633e79a6c071006d7574a8b482f1d7a4744b80690914f0f5275f630cad33900e670bf9d4f0b60df7b04123e5f643cda6965d645a45bae5da5f34803a1b02787de907d04f70a4f851ad9b54438eae6810d252f35893177d938044dc04b958c62f7c58af06050ecd36a59951082f46fd5c027c32b7163f50623fa915e4d7c0b40c3053a4cb697e6026da7b17784dce638e72c49748a4be1335328a495b9e3ad86574932c1ac0b38a1ecaef5ceface6f41a975aaeaca3b7059d1068ef1b657cede0971bd2720a29f1b3deb0ed377218c9a565425c7244b2062d355023bc52b32414ff0ad5857505c7bd8d701b9f3cb691c10a78140e8eac48141b94cc9791174660c5a0a99b0651d5571156deb827544b4a33ac91c341ffa7babb9ebfa4e6f6c2ef2ec4a5747eb637b896142ffcb0c4cfa432fb53fbc77a12710369563879192160573ea3c3816492d6f280e8235f397c7d0531726579ed1929762525df5ec3aaf84b1a166d20c608d18e7d4da3e2a86cf2af99f834c3c7369fa114dcb1da6e56a2f55149d54ed2104f50f844b178f08de7c0076f03e4319f554f542ecb871dc2800121ca6a2a28f0ccbf5763b0fd66f091ef30499eba0634e8b2cc0cf51e2e3217defd9c62fbd281523ef824287bedc76aa5e375a5ebb2d6a9d1eae1a137c65b8e0afe5c724fd46ad6ceeb4b1afcecc35bdc029973e0d7f756305b3e18b02512d84a875a08d4efca2febfc905684576d04320dfed9b0b04f1d6d3b99932d96ce851a97e6a4d42d9752c9a3c62e7a0fd933d64e6124d9592835f44493fe7113d841200ee29f3739da78929352354893606ad2a376ff3f897ae07097a9507ab2e069f77ed67fd224105e7869fa59c5c5aba4875c0dd07e87c850295b5f91a61fa16c9b13c8bb94e862a7943e2ce3f69989ca094fcff5d172651467faa3d10bcfddd88f4f2839a0d3fcf1dc8894872431c49c016df8c78e9cd096916e152d91b53d85812cd4e7fc2d4b92e299c695bb141f1799290a8f12c5e154494c4964c360064b4fbcafb001a48a246c27a377f1692dfbf0e30a95445e712f5c5505b517250667628447d49b2e77e10ba5c3eb1acc23a0a13aca55907b4c545e28c99af783edb0465b5e928eae8d56378ca1ca2df60a699e114191c50b99305e410537f6a71714fb67694f533a22e36aca9f6b83bb8f3f0a816d36df197efd1dc18fe79576497366227c19064b32dce6bee3b571be868dede993e33ceb4405854d7c84ce1b75cec428fe1a7a0c3659a2adafda1cb4d73c0667e45ee9a050ba381c0f0ea2b8cb20f4f610191a684477f80b0347922490a699ae408680c886f6e9a7f1a6a63fd6d35554689f5e01be5e4014a57d1250d937628c4c6a465151faabb2ba626a50254898e21fbd9c563328be1067d10d669ea8bdc90cd70300395d24ad3b690e27fe657f17e00d2fb9a6cbe0f696629c427561ce89b0e61c8ec39aadf575a557a4c12f9ce8f12e3a7ae8b53ecb4de09a7c01a1be77f75ff85100a1933338c26224d59b4497cf8c148fef08ee90ffba8dfffe2554d2bf19d878158dcdd00e672a99a0969bd3e0a22923d03eb2735d21e8fb7ef4a919aaf14932d52578129db890009bcdca29e9cd6b52cb4d505ff0a7c898336e9d8e73155987afd1b39d6af9b076b63ebc8aa4f77ffce253ed041f669dad5e512277bfe2a54c91573a0b35eaffad48aadc3eee16addaa205f677990e33e1e0a2aec833292919d75c558d44d8560b2a3ee7a14937d44796350ba8f29615056f593d20d8a22eff7866d8362c966594d30ad02e59c4b005019c2d52eb293e0f488060b6a28060929ded6b1387ee254c55d241ab47fa468035bb901b77a2c0c74709ed4f43ae9529f27b4c8fb2e59c38f584a7263bc0a962b80b712df21b5e00fbcb67de727f121b787daf0e545bde67b6c3e7c35e1394fcdb00fe73c6ff0e355a12c78c1168c5bbb3ba8a6d720bdb6c733c3cb310fb8689452a6f089d067ceb3bdd845fef3f37a7ca2cfdbd62259a27e9e2ff675314af91e7839f92fc6e6ead70a8f71e9ef5a04bf1c43be7e0602e15ba2a1be59617c446a0a7f5320072e91573baee603f8eac774c9e90566c288d8f792c04e15acfdc5fc&x-plex-token=WkCWH1NxZdvihqQiSwN6&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1728433333
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Entertainment",BBC Earth
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555&serverSideAds=false&checkedby:iptvcat.com
@@ -246,12 +243,12 @@ https://v11.thetvapp.to/hls/HallmarkMoviesMysteriesEast/index.m3u8?token=TEpQQlp
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 
 #EXTINF:-1 tvg-id= "CMTTV" tvg-logo="https://pbs.twimg.com/profile_images/1410682052605788173/Uzb5xoQA_400x400.jpg" group-title="Entertainment",CMT
-https://v11.thetvapp.to/hls/CMTEast/index.m3u8?token=OWtySUM5c3paOGtQRk5obVlRNFJkczcybVhIb0lRS01RaDNXRDNWUg==
+http://67.220.74.90:25461/18736836/73683618/5050
 
 #EXTINF:-1 tvg-id= "FUSE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png" group-title="Entertainment",FUSE
 http://fl2.moveonjoy.com/FUSE/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png" group-title="Entertainment",MTV
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://yt3.googleusercontent.com/8dmkFX1UcqiTQSTi2pbgNEHi-MPij0Ad6C0ENRbqm3wiZpBo8RYzXiQqyZNViC17JJEiEdTDH8o=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",MTV
 https://fl2.moveonjoy.com/MTV/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png" group-title="Entertainment",MTV2
@@ -435,7 +432,7 @@ http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 http://212.102.60.231/NFL_RedZone/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Shudder" tvg-logo="https://helios-i.mashable.com/imagery/articles/06wW7xcPUO9q736MBfJUdrm/hero-image.fill.size_1248x702.v1623390743.jpg" group-title="movies",Shudder
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9/variant.m3u8?url=82627245ca3d1ddb7e22bee6bb5f19fb-ed4d6a52cbb3cc90bd915d7bf9b228801438f964123be215a2a44b97f97a20f28afc1b80d54e8970f701079d0cdef194b4d7363cb23179b8109c5ecc1e9a43daccc65f3b068a0318ba19cf17793c68a98c94b7c1da1c08c630021817ec6b41ba3091f6376e292c9463f9483dee88ccd2fdf4413ed6526b733aaa4622e3e3e67c81e32d01ef7b5a8746a51603dfef776d3bcfc8a2787039b022432a40774eb9c443c0e116cb4d2c84ce020aa0de471c814c55a98a3b8757c97dbdf3264e7f85594b15155ea355aa693725f8512fee6bcb&x-plex-token=jewi9VKFmycPGmaHqf3c&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1728926755
+http://67.220.74.90:25461/18736836/73683618/5050
 
 #EXTINF:-1 tvg-id="Cine" tvg-logo="https://prod-images.tcm.com/img/global/logo-TCM-share-1200x630.jpg" group-title="movies",Cinelife
 https://magnolia-xumo-us.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-xumo/CDN/master.m3u8
@@ -447,10 +444,10 @@ http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 http://fl1.moveonjoy.com/TCM/index.m3u8
 
 #EXTINF:-1 tvg-id="IFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTOvaUVC8YtjpIJF_rBTpThqAVU7SyG8HSrQ&s" group-title="movies",IFC
-https://v13.thetvapp.to/hls/IFCEast/index.m3u8?token=OWtySUM5c3paOGtQRk5obVlRNFJkczcybVhIb0lRS01RaDNXRDNWUg==
+http://67.220.74.90:25461/18736836/73683618/5050
 
 #EXTINF:-1 tvg-id="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Movie_Channel.svg/1920px-The_Movie_Channel.svg.png" group-title="movies",TMC
-https://v16.thetvapp.to/hls/TheMovieChannelEast/index.m3u8?token=OWtySUM5c3paOGtQRk5obVlRNFJkczcybVhIb0lRS01RaDNXRDNWUg==
+http://67.220.74.90:25461/18736836/73683618/5050
 
 #EXTINF:-1 tvg-id="MGMPlus" tvg-logo="https://i.imgur.com/S2VUrO8.png" group-title="movies",MGM+
 http://fl2.moveonjoy.com/EPIX/index.m3u8
@@ -459,7 +456,7 @@ http://fl2.moveonjoy.com/EPIX/index.m3u8
 http://67.220.74.90:25461/18736836/73683618/5056
 
 #EXTINF:-1 tvg-id="Miramax" tvg-logo="https://static.wikia.nocookie.net/closinglogogroup/images/1/18/Screenshot_20230321-164221_YouTube.jpg/revision/latest?cb=20230321212216" group-title="movies",Miramax Movie Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec/variant.m3u8?url=f1ece800faa6b4ca0619bc28daae1107-b2f4ea4c931602bab799545a6832d13e8efd1300efd28e3fc04562006023cd0ec641f5a582d6b6f964ea26d40c11118f8d8739bfe115f5e266d78b99540006f8222ad73f1c8880bbe5c395b810abd338c82f2a7e1103312aa92f981f9e3c1a32cdd57e5f6eaa92bcf411d61bde3305882055db01359d48233a18885bc88e652a31371a2745a8eda49951f477ddd144b9db4e3e8692b54c0205a991f7d57c1e58464519f95c029805e024bc1693f58997e1f0a5d9c487f6b3f2384c5ab542fceb915bf7e1e0835f78a1077df3154304a6&x-plex-token=UL4T69KMGGCQHTJtskgM&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1728926606
+http://67.220.74.90:25461/18736836/73683618/5050
 
 #EXTINF:-1 tvg-id="Gravitas" tvg-logo="https://i.imgur.com/S2VUrO8.png" group-title="movies",Gravitas Ventures
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991312
@@ -569,7 +566,7 @@ http://67.220.74.90:25461/18736836/73683618/5047
 #EXTINF:-1 tvg-id="ShadesBlk" tvg-logo="https://i.imgur.com/wIf4X0i.png" group-title="movies",Shades of Black
 https://dbrb49pjoymg4.cloudfront.net/10001/9995106/hls/playlist.m3u8?ads.xumo_channelId=9995106
 
-#EXTINF:-1 tvg-id="StingHits" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png" group-title="movies",Stingray Greatest Hits
+#EXTINF:-1 tvg-id="StingHits" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png" group-title="Entertainment",Stingray Greatest Hits
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991120
 
 #EXTINF:-1 tvg-id="NFLST1" tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg" group-title="Entertainment",Sunday Ticket 1

@@ -389,9 +389,6 @@ http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FS1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports2" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",FS2
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-
 #EXTINF:-1 tvg-id="FreebieTV" tvg-logo="https://i.imgur.com/KbmXdjm.png" group-title="Entertainment",Freebie
 https://d26pp4b7ojtlyn.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-FreebieTV/187.m3u8
 
@@ -421,9 +418,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 #EXTINF:-1 tvg-id="Poker Channel" tvg-logo="https://i.imgur.com/VTrKSxt.png" group-title="Sports",Poker Channel
 https://d2njbreu8qyfxo.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-PokerNightInAmerica/216.m3u8
-
-#EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Sports",NFL Channel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
 
 #EXTINF:-1 tvg-id="NFLNetwork" tvg-logo="https://imgur.com/a/uC3BKO3" group-title="Sports",NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
@@ -577,3 +571,6 @@ http://fl3.moveonjoy.com/NFL_1/index.m3u8
 
 #EXTINF:-1 tvg-id="NFLST3" tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg" group-title="Entertainment",Sunday Ticket 3
 http://fl4.moveonjoy.com/NFL_1/index.m3u8
+
+#EXTINF:-1 tvg-id="NFLST4" tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg" group-title="Entertainment",Sunday Ticket 4
+http://saypopular.com:25461/live/18736836/73683618/272578.ts

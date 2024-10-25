@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-id="KREM.us" tvg-name="KREM" tvg-logo="https://play-lh.googleusercontent.com/lQnVE4bDah8rnPF3uVVIO5HAyvA5OyyG_Gu6EkyO-pKXEw2H5_c5Qr8dIy0H0ZibkT0" group-title="Entertainment" tvg-shift="-8",KREM
 https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/865666/5743360/media.m3u8?request_token=Z1-ZrI8l37vCBmH6YKlQZNFcvAXYiLJN8c0K9gQTvqeAS2QJAdKCNfJi781AV_GZ0FiNd9AuyH162KN25KKJ1iwvz5KrioIJ6D1yPHrvpZ68JmiHTY6U93wIgD_NiMxFXxR_tw_MCi_hka74r9ng6aLxngs2p8TTSlCW71SMmjHsk4wN7kcHLDtoRtcivA&CMCD=mtp%3D111600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22ac2d9503-527a-4258-a660-a8841776bd7c%22
 
-#EXTINF:-1 tvg-id="KXLY.us" tvg-name="ABC (KXLY 4.1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Entertainment" tvg-shift="-8",ABC (KXLY 4.1)
+#EXTINF:-1 tvg-id="KXLY.us" tvg-name="KXLY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Entertainment" tvg-shift="-8",KXLY
 http://saypopular.com:25461/live/18736836/73683618/272361.ts
 
-#EXTINF:-1 tvg-id="ABCSpark.ca" tvg-name="ABC Spark (KXLY 4.2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIIr3VJcL93eUVQ3brVqbQ7xyT-FRwN4ZBng&s" group-title="Entertainment" tvg-shift="-8",ABC Spark (KXLY 4.2)
+#EXTINF:-1 tvg-id="ABCSpark.ca" tvg-name="ABC Spark" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIIr3VJcL93eUVQ3brVqbQ7xyT-FRwN4ZBng&s" group-title="Entertainment" tvg-shift="-8",ABC Spark (KXLY 4.2)
 http://ae325328.ucomist.net/iptv/Z3SWF9EL3YPX5N/6466/index.m3u8
 
 #EXTINF:-1 tvg-id="NBCLX.us" tvg-name="NBCLX Home" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/NBC_LX_Home_2023.svg" group-title="Entertainment" tvg-shift="-8",NBCLX Home
@@ -369,15 +369,6 @@ http://67.220.74.90:25461/18736836/73683618/4630
 #EXTINF:-1 tvg-id="StingHits" tvg-name="Stingray Greatest Hits" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png" group-title="Entertainment" tvg-shift="-8",Stingray Greatest Hits
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991120
 
-#EXTINF:-1 tvg-id="NFLST2" tvg-name="Sunday Ticket 2" tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg" group-title="Entertainment" tvg-shift="-8",Sunday Ticket 2
-http://fl3.moveonjoy.com/NFL_1/index.m3u8
-
-#EXTINF:-1 tvg-id="NFLST3" tvg-name="Sunday Ticket 3" tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg" group-title="Entertainment" tvg-shift="-8",Sunday Ticket 3
-http://fl4.moveonjoy.com/NFL_1/index.m3u8
-
-#EXTINF:-1 tvg-id="NFLST4" tvg-name="Sunday Ticket 4" tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg" group-title="Entertainment" tvg-shift="-8",Sunday Ticket 4
-http://saypopular.com:25461/live/18736836/73683618/272578.ts
-
 #EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="kids" tvg-shift="-8",3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
@@ -594,3 +585,15 @@ http://67.220.74.90:25461/18736836/73683618/5047
 
 #EXTINF:-1 tvg-id="ShadesBlk" tvg-name="Shades of Black" tvg-logo="https://i.imgur.com/wIf4X0i.png" group-title="movies" tvg-shift="-8",Shades of Black
 https://dbrb49pjoymg4.cloudfront.net/10001/9995106/hls/playlist.m3u8?ads.xumo_channelId=9995106
+
+#EXTINF:-1 tvg-id="NFLST1" tvg-name="Sunday Ticket 1" tvg-logo="https://play-lh.googleusercontent.com/lQnVE4bDah8rnPF3uVVIO5HAyvA5OyyG_Gu6EkyO-pKXEw2H5_c5Qr8dIy0H0ZibkT0" group-title="Entertainment" tvg-shift="-8",Sunday Ticket 1
+https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/865666/5743360/media.m3u8?request_token=Z1-ZrI8l37vCBmH6YKlQZNFcvAXYiLJN8c0K9gQTvqeAS2QJAdKCNfJi781AV_GZ0FiNd9AuyH162KN25KKJ1iwvz5KrioIJ6D1yPHrvpZ68JmiHTY6U93wIgD_NiMxFXxR_tw_MCi_hka74r9ng6aLxngs2p8TTSlCW71SMmjHsk4wN7kcHLDtoRtcivA&CMCD=mtp%3D111600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22ac2d9503-527a-4258-a660-a8841776bd7c%22
+
+#EXTINF:-1 tvg-id="NFLST2" tvg-name="Sunday Ticket 2" tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg" group-title="Entertainment" tvg-shift="-8",Sunday Ticket 2
+http://fl3.moveonjoy.com/NFL_1/index.m3u8
+
+#EXTINF:-1 tvg-id="NFLST3" tvg-name="Sunday Ticket 3" tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg" group-title="Entertainment" tvg-shift="-8",Sunday Ticket 3
+http://fl4.moveonjoy.com/NFL_1/index.m3u8
+
+#EXTINF:-1 tvg-id="NFLST4" tvg-name="Sunday Ticket 4" tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg" group-title="Entertainment" tvg-shift="-8",Sunday Ticket 4
+http://saypopular.com:25461/live/18736836/73683618/272578.ts

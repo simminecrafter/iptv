@@ -11,7 +11,7 @@ http://ae325328.ucomist.net/iptv/Z3SWF9EL3YPX5N/6466/index.m3u8
 #EXTINF:-1 tvg-name="NBCLX HOME"tvg-id="NBCLX.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/NBC_LX_Home_2023.svg"group-title="Entertainment",NBCLX HOME
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991651
 
-#EXTINF:-1 tvg-name="ION"tvg-id="ION.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18633_dark_360w_270h.png"group-title="Entertainment",ION
+#EXTINF:-1 tvg-name="ION"tvg-id="IONTVEast.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18633_dark_360w_270h.png"group-title="Entertainment",ION
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
 
 #EXTINF:-1 tvg-name="BOUNCE TV"tvg-id="BounceTV.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png"group-title="Entertainment",Bounce

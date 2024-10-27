@@ -93,7 +93,7 @@ http://67.220.74.90:25461/18736836/73683618/2179
 http://fl1.moveonjoy.com/TBS/index.m3u8
 
 #EXTINF:-1 tvg-name="SYFY"tvg-id="SyfyEast.us"tvg-logo="https://i.imgur.com/4fMWhUE.png"group-title="Entertainment",Syfy
-https://v7.thetvapp.to/hls/SyfyEast/index.m3u8?token=ZTJZc1AzbFU2cE9uck10eUJNMlVvUXA1Vk1pbmRGeFRjbXlVT3hmYg==
+https://v14.thetvapp.to/hls/SyfyEast/tracks-v2a1/mono.m3u8?token=RkVZdHd2ZW5JMmZpUkxQTWs1S1A0TE5OcXhYYWJ2V1hpZEZpcGFIWg==
 
 #EXTINF:-1 tvg-name="COMEDY CENTRAL"tvg-id="ComedyCentralEast.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png"group-title="Entertainment",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
